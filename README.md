@@ -14,4 +14,6 @@ Every plugin here connects to Yakusoku's remote MCP server, `https://yakusoku.co
 
 Guide: https://yakusoku.com.au/guides/connect-ai-assistant-to-yakusoku
 
+The files are MIT licensed (`LICENSE`). The Yakusoku name and logo are trademarks of Yakusoku Software and are not covered by that license.
+
 This repository is generated from Yakusoku's main repository; changes made here are overwritten. Report problems at https://yakusoku.com.au/contact.
