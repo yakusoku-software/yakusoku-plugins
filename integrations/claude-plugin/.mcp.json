@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "yakusoku": {
+      "type": "http",
+      "url": "https://yakusoku.com.au/api/mcp"
+    }
+  }
+}

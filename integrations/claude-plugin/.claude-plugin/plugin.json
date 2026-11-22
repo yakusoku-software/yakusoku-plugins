@@ -1,0 +1,27 @@
+{
+  "name": "yakusoku",
+  "displayName": "Yakusoku",
+  "version": "1.1.0",
+  "description": "Plan a wedding in Yakusoku: guests and RSVPs, seating, menu, budget, tasks, calendar, vendors, photos, the gift registry and messages. Vendors manage their listings, bookings, invoices and questionnaires.",
+  "author": {
+    "name": "Yakusoku Software",
+    "url": "https://yakusoku.com.au"
+  },
+  "homepage": "https://yakusoku.com.au/guides/connect-ai-assistant-to-yakusoku",
+  "repository": "https://github.com/yakusoku-software/yakusoku-plugins",
+  "license": "MIT",
+  "keywords": [
+    "wedding",
+    "wedding planning",
+    "guests",
+    "rsvp",
+    "seating",
+    "budget",
+    "mcp"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://yakusoku.com.au/guides/connect-ai-assistant-to-yakusoku",
+  "supportUrl": "https://yakusoku.com.au/contact",
+  "privacyPolicyUrl": "https://yakusoku.com.au/privacy",
+  "termsOfServiceUrl": "https://yakusoku.com.au/terms"
+}

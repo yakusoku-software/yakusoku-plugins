@@ -1,0 +1,15 @@
+{
+  "name": "yakusoku",
+  "description": "Yakusoku's plugins for Claude Code.",
+  "owner": {
+    "name": "Yakusoku Software",
+    "url": "https://yakusoku.com.au"
+  },
+  "plugins": [
+    {
+      "name": "yakusoku",
+      "source": "./integrations/claude-plugin",
+      "description": "Plan a wedding in Yakusoku: guests and RSVPs, seating, budget, tasks, vendors and more, through Yakusoku's MCP server."
+    }
+  ]
+}

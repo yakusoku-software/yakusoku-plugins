@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "yakusoku",
+  "description": "Plan a wedding in Yakusoku: guests and RSVPs, seating, menu, budget, tasks, calendar, vendors, photos, the gift registry and messages. Vendors manage their listings, bookings, invoices and questionnaires."
+}

@@ -1,0 +1,10 @@
+{
+  "name": "yakusoku",
+  "version": "1.1.0",
+  "description": "Plan a wedding in Yakusoku: guests and RSVPs, seating, budget, tasks, vendors and more.",
+  "mcpServers": {
+    "yakusoku": {
+      "httpUrl": "https://yakusoku.com.au/api/mcp"
+    }
+  }
+}

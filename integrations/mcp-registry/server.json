@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "au.com.yakusoku/yakusoku",
+  "title": "Yakusoku",
+  "description": "Plan a wedding in Yakusoku: guests, RSVPs, seating, budget, tasks, vendors and more.",
+  "version": "1.1.0",
+  "websiteUrl": "https://yakusoku.com.au/guides/connect-ai-assistant-to-yakusoku",
+  "icons": [
+    {
+      "src": "https://yakusoku.com.au/logo-128.png",
+      "mimeType": "image/png",
+      "sizes": ["128x128"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://yakusoku.com.au/api/mcp"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "yakusoku",
+  "owner": {
+    "name": "Yakusoku Software"
+  },
+  "plugins": [
+    {
+      "name": "yakusoku",
+      "source": "integrations/cursor-plugin"
+    }
+  ]
+}
